@@ -1,0 +1,4 @@
+#!/bin/bash
+
+file=$1
+go run main.go $file.go
