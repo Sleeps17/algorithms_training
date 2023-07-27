@@ -1,0 +1,4 @@
+#!/bin/bash
+
+name=$1
+go run ./gen/gen.go I

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+go run ./solutions/main.go ./solutions/$1.go
